@@ -1,0 +1,7 @@
+how to use proteted routes
+role based access controller/ RBAC
+query
+params
+nested routes
+routing guards
+animation between route changing

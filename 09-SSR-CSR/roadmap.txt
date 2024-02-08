@@ -1,0 +1,3 @@
+ssr vs csr
+how to use in react
+when to use which

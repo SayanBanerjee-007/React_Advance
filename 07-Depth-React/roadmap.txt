@@ -1,0 +1,14 @@
+Why use react
+- virtual dom
+- view oriented
+- unidirectional data flow
+- component based architecture
+
+What is
+- virtual DOM
+- reconciliation
+- fiber algo
+- diffing algo
+
+How components render and updates ?
+What is synthetic event in react and how it makes react better ?

@@ -1,0 +1,12 @@
+testing
+reusability
+modularity
+performance
+shimer UI
+optimize css/js at bundler level
+using CDN
+server optimization
+writing optimized code
+system design concept
+low loading time (less than 500ms is great)
+type of bundler and when to use which

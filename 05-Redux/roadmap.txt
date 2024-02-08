@@ -1,0 +1,6 @@
+what 
+why it should be used
+how to use
+dive into concept more for redux
+do practical on redux-toolkit
+understand concept
